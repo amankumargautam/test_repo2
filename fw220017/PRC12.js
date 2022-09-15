@@ -1,0 +1,2 @@
+Let arr = [ 3 , 5 , 3 , 3 , 8 , 5 , 6 ] ;
+let N = 7 ; 2 3 let obj = { } ; 4 ▼ for ( let i = 0 ; i < N ; i ++ ) { 51 if ( obj [ arr [ i ] ] 6 7 ▼ } else { 8 9 10 11 12 13 v if ( obj [ x ] 14 15 16 17 23 19 14 } } obj [ arr [ i ] ] = 1 ; } obj [ arr [ i ] ] + = 1 ; === let sum = 0 ; for ( let x in obj ) { 1 ) { sum = sum + ( Number ( x ) ) ; === console.log ( sum ) : undefined ) {
